@@ -1,3 +1,6 @@
+# Addition of iOS file manager support
+.SD_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
